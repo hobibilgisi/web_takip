@@ -1,4 +1,4 @@
-# TSF Web Takip Sistemi
+# Web Takip Sistemi
 
 Web sayfalarındaki değişiklikleri takip eden ve mail ile bildiren Python uygulaması.
 
@@ -63,7 +63,7 @@ python main.py
 ## Proje Yapısı
 
 ```
-tsf_takip/
+web_takip/
 ├── main.py                 # Ana program girişi
 ├── ├── main_window.py     # Tkinter arayüz
 │   └── email_config_dialog.py  # Mail ayarları dialog

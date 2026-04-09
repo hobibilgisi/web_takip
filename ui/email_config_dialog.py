@@ -181,7 +181,7 @@ class EmailConfigDialog:
         try:
             # Değerleri doğrudan yaz (tırnak olmadan)
             with open(self.env_path, 'w', encoding='utf-8') as f:
-                f.write("# TSF Takip Sistemi - Mail Ayarları\n")
+                f.write("# Web Takip Sistemi - Mail Ayarları\n")
                 f.write("# Bu dosya otomatik oluşturuldu\n\n")
                 f.write(f"SENDER_EMAIL={sender}\n")
                 f.write(f"SENDER_PASSWORD={password}\n")

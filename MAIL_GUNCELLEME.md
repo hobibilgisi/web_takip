@@ -156,7 +156,7 @@ Web sayfası takibi başarıyla başlatıldı:
 Değişiklikler tespit edildiğinde bu adrese bildirim gönderilecektir.
 
 ---
-TSF Takip Sistemi
+Web Takip Sistemi
 ```
 
 ### Takip Sonlandırıldı Maili
@@ -175,7 +175,7 @@ Web sayfası takibi sona erdi:
 Belirlediğiniz takip süresi tamamlandı.
 
 ---
-TSF Takip Sistemi
+Web Takip Sistemi
 ```
 
 ---

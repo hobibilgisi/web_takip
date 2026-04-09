@@ -1,6 +1,6 @@
 """
-TSF Web Takip Sistemi
-=====================
+Web Takip Sistemi
+==================
 
 Web sayfalarındaki değişiklikleri izleyen ve mail ile bildiren sistem.
 

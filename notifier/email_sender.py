@@ -317,7 +317,7 @@ if __name__ == "__main__":
         print(f"\nMail gonderiliyor ({smtp_server})...")
         success = email_sender.send(
             to_email=receiver,
-            subject="Test - TSF Takip Sistemi",
+            subject="Test - Web Takip Sistemi",
             body="Bu bir test mailidir. Eger bunu okuyorsan, sistem calisiyor!"
         )
         
